@@ -1,6 +1,6 @@
-# Todo List App
+# iTask
 
-A simple and responsive Todo List application built using **React** and **Vite**.
+A simple and responsive task management application built using **React** and **Vite**.
 
 The app allows users to add and delete tasks with a clean and minimal user interface.
 
