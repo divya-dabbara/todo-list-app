@@ -1,12 +1,40 @@
-# React + Vite
+# Todo List App
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A simple and responsive Todo List application built using **React** and **Vite**.
 
-Currently, two official plugins are available:
+The app allows users to add and delete tasks with a clean and minimal user interface.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🚀 Features
+- Add new tasks
+- Delete tasks
+- Simple and clean UI
+- Responsive design
 
-## Expanding the ESLint configuration
+## 🛠 Tech Stack
+- React
+- Vite
+- JavaScript
+- CSS
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 🌐 Live Demo
+👉 https://YOUR-VERCEL-LINK.vercel.app
+
+## 📁 Project Structure
+```
+todo-list-app/
+├── src/
+│   ├── App.jsx
+│   ├── main.jsx
+│   └── components/
+├── public/
+├── package.json
+├── vite.config.js
+└── README.md
+```
+📌 Notes
+
+This project was built using React with Vite for fast development and optimized builds.
+
+The application is deployed on Vercel.
+
+Created for learning and portfolio purposes.
