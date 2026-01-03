@@ -17,7 +17,7 @@ The app allows users to add and delete tasks with a clean and minimal user inter
 - CSS
 
 ## 🌐 Live Demo
-👉 https://YOUR-VERCEL-LINK.vercel.app
+👉 https://todo-list-app-amber-five.vercel.app/
 
 ## 📁 Project Structure
 ```
